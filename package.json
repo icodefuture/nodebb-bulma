@@ -1,10 +1,22 @@
 {
-  "name": "nodebb-theme-quickstart",
-  "version": "0.0.0",
-  "description": "Enter a description here",
-  "main": "theme.less",
-  "keywords": [
+	"name": "nodebb-bulma",
+	"version": "0.0.0",
+	"description": "Nodebb Theme made with Bulma",
+	"main": "theme.less",
+	"keywords": [
 
-  ],
-  "license": "MIT"
+	],
+	"license": "MIT",
+  	"author": {
+	    "name": "Subham Mitra",
+	    "email": "subham@entesta.com",
+	    "url": ""
+	},
+	"repository": {
+	    "type": "git",
+	    "url": "https://github.com/icodefuture/nodebb-bulma"
+	},
+	"bugs": {
+	    "url": "https://github.com/icodefuture/nodebb-bulma/issues"
+	}
 }
